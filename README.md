@@ -172,6 +172,4 @@ Computer Engineering Student
 GitHub: https://github.com/Yashmali39
 ---
 
-## License
 
-This project was developed as part of a technical assignment for learning and demonstration purposes.
